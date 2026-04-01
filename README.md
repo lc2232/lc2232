@@ -7,7 +7,7 @@
 🌱 I'm an ex-Dyson Software Engineer.<br>
 🎓 I graduated from the University of Bath with a first-class honours **BSc Computer Science** degree.<br>
 📚 I enjoy working in **Python** and **C**, and I'm interested in Backend Systems, AI, and Embedded Software.<br>
-📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/luke-cummins).
+📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/luke-cummins).<br>
 🌐 [**Website**](https://lc2232.github.io)
 
 <br>
