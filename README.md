@@ -1,3 +1,5 @@
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=70&lines=Hi+there,+I'm+Luke!+%F0%9F%91%8B;Backend+%26+Embedded+Software+Engineer" alt="Typing SVG" /></a>
+
 <div align="center">
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Luke!+%F0%9F%91%8B;Backend+%26+Embedded+Software+Engineer" alt="Typing SVG" /></a>
@@ -6,6 +8,7 @@
 🎓 I graduated from the University of Bath with a first-class honours **BSc Computer Science** degree.<br>
 📚 I enjoy working in **Python** and **C**, and I'm interested in Backend Systems, AI, and Embedded Software.<br>
 📫 You can reach me on [**LinkedIn**](https://www.linkedin.com/in/luke-cummins).
+🌐 [**Website**](https://lc2232.github.io)
 
 <br>
 
