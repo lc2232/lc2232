@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Luke!+%F0%9F%91%8B;Backend+%26+Embedded+Software+Engineer" alt="Typing SVG" /></a>
 
@@ -34,4 +34,4 @@ Over the years, I've had the opportunity to participate in and win several progr
 - 🥇 **Won Most Technically Impressive** at Bath Hack, 2023
 - 🥇 **Won 1st Place** at BAE System's Capture The Flag at the University of Bath, 2022
 - 🥈 **Won Most Impressive and voted 2nd Hackers Choice** at Bath Hack, 2021
-- 🥇 **Won Best Overall** at Launchpad 5.0, 2021
+- 🥇 **Won Best Overall** at Launchpad 5.0, 2021 -->
